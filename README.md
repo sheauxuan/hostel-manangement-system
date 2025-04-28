@@ -1,4 +1,4 @@
-HOW TO SET UP AND RUN
+HOW TO SET UP AND RUN?
 
 1. Download and Install Apache NetBeans 18
 
