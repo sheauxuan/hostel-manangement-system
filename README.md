@@ -7,21 +7,20 @@ HOW TO SET UP AND RUN?
   
 - Install it on your computer.
 
----
+
 
 2. Open the Project
 
-1. Open **Apache NetBeans IDE 18**.
-2. Click "File" → "Open Project".
-3. Browse to where you saved the file.
-4. Select the "project folder" and open it in NetBeans.
+- Open **Apache NetBeans IDE 18**.
+- Click "File" → "Open Project".
+- Browse to where you saved the file.
+- Select the "project folder" and open it in NetBeans.
 
----
 
 3. Run the Project
 
-1. After the project loads, right-click the project name.
-2. Select **"Run"**.
-3. Alternatively, you can click the **green Run button** at the top of NetBeans.
+- After the project loads, right-click the project name.
+- Select **"Run"**.
+- Alternatively, you can click the **green Run button** at the top of NetBeans.
 
 ✅Your Java application will now start running!
