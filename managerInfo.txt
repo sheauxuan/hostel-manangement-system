@@ -1,0 +1,4 @@
+managerName:LimJay
+tpNum:MNG999
+password:manager1234567
+email:aa@GMAIL.COM

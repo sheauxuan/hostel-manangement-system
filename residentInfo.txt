@@ -1,0 +1,56 @@
+residentName:Lim Ying Ying
+tpNum:100001
+password:ying226lim
+rePassword:ying226lim
+contact:0123345566
+eContact:0176654432
+email:ying2@gmail.com
+birth:22/05/2005
+address:Jalan Puteri 12/20, Bandar Puteri Puchong, Puchong, Selangor
+country:Malaysia
+roomType:Twins
+roomAssigned:B555A
+referenceNum:BR98765432UU
+---------------------------------------------------------------
+residentName:Kin Sheau Xuan
+tpNum:100002
+password:sheau5556
+rePassword:sheau5556
+contact:01128782834
+eContact:0123256678
+email:xuan@gmail.com
+birth:10/09/2005
+address:Jalan Puteri 14/21, Bandar Puteri Puchong, Puchong, Selangor
+country:Malaysia
+roomType:Triple
+roomAssigned:C356A
+referenceNum:JN987654321
+---------------------------------------------------------------
+residentName:Michael Lim Jack Son
+tpNum:500003
+password:5544rtywww
+rePassword:5544rtywww
+contact:01977655443
+eContact:0122578899
+email:jackson@gmail.com
+birth:7SEPT2005
+address:261, Jalan Seremban Tiga 6, Seremban 3, 70300 Seremban, Negeri Sembilan
+country:MALAYSIA
+roomType:Triple
+roomAssigned:C333B
+referenceNum:BVN987654321
+---------------------------------------------------------------
+residentName:Mike Tan Jun Yong
+tpNum:500009
+password:miketan000011
+rePassword:miketan000011
+contact:0122579006
+eContact:01128776566
+email:miketan@gmail.com
+birth:2005/05/12
+address:Blok 05-10, Sky Residence, Bandar Puteri Puchong, 47100 Puchong, Selangor.
+country:Malaysia
+roomType:Triple
+roomAssigned:C303B
+referenceNum:BNY44188
+---------------------------------------------------------------

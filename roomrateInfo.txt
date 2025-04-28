@@ -1,0 +1,11 @@
+RoomType: Single
+Rate: 1550
+
+RoomType: Twins
+Rate: 950
+
+RoomType: Triple
+Rate: 800
+
+RoomType: Quad
+Rate: 600

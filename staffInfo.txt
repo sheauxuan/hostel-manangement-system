@@ -1,0 +1,14 @@
+staffName:Nur Fatima
+tpNum:ST5566
+password:st5578877
+rePassword:st5578877
+contact:012257055
+email:nur556@gmail.com
+-----------------------
+staffName:Lim ah qq
+tpNum:st556424
+password:123456789
+rePassword:123456789
+contact:0123456789
+email:ahqi@gmail.com
+-----------------------
