@@ -7,6 +7,7 @@ HOW TO SET UP AND RUN?
   
 - Install it on your computer.
 
+---
 
 2. Open the Project
 
