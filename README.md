@@ -14,7 +14,7 @@ HOW TO SET UP AND RUN?
 - Open **Apache NetBeans IDE 18**.
 - Click "File" → "Open Project".
 - Browse to where you saved the file.
-- Select the "project folder" and open it in NetBeans.
+- Select the project folder and open it in NetBeans.
 
 
 3. Run the Project
